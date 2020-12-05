@@ -25,7 +25,7 @@ SECRET_KEY = 'dd6di1sn0wgvl#(n$)%*tl6_v%4b=lf0&z5=-m@eitv+io*=#('
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS =  ["http://dtura.pythonanywhere.com/"]
+ALLOWED_HOSTS = []
 
 
 # Application definition
